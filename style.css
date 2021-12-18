@@ -1,0 +1,26 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+.container {
+    background-color: aliceblue;
+    height: auto;
+    width: 500px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: indigo;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+}
